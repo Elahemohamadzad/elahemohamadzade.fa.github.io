@@ -44,5 +44,5 @@
 ### حسابهای دیگر
   هیچ چیزی
   
-  English Resume:<a href="https://elahemohamadzad.github.io/elahemohamadzade.fa.github.io/"> Resume </a>
+  English Resume:<a href="https://elahemohamadzad.github.io/elahemohamadzade.github.io/"> Resume </a>
   
